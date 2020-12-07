@@ -1,0 +1,146 @@
+body {
+	background-image: url("./lion.png");
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+#general {
+	border: solid 3px black;
+	width: 700px;
+	height: 1500px;
+	margin-left: 300px;
+	background-color: #ACF8F8;
+	border-radius: 15px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 15px;
+}
+
+.bandeau {
+	width: 700px;
+	height: 30px;
+	background-color: black;
+
+}
+
+#lion {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+#image {
+	text-align: center;
+}
+
+.bandeau1 {
+	border: solid 3px;
+	width: 690px;
+	text-align: center;
+	margin: auto;
+	background: black;
+}
+
+h4 {
+	text-align: center;
+	color: white;
+
+}
+
+li {
+	list-style: none;
+	color: white;
+}
+
+.bandeau2 {
+	border: solid 3px;
+	width: 195px;
+	height: 295px;
+	background: black;
+
+}
+
+.flex {
+	display: flex;
+	margin: 0 2px;
+	margin-top: 3px;
+}
+
+h5 {
+	color: white;
+	text-align: center;
+}
+
+h6 {
+	color: white;
+	text-align: center;
+}
+
+.intitu {
+	color: white;
+}
+
+table {
+	background-color: #ACF8F8;
+	color: ;
+	background-color: black;
+	border: 3px solid;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td,
+th {
+	text-align: center;
+	color: white;
+	background-color: black;
+	border: 2px solid;
+}
+
+#bandeau4 {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 700px;
+	height: 30px;
+	background-color: black;
+	color: blanchedalmond;
+	text-align: center;
+}
+
+#conteneur {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.photo10 img {
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	align-content: space-around;
+}
+
+#marseille {
+	height: 200px;
+}
+#bandeauR{
+
+}
+.carte{
+	background-attachment: ;
+	position: absolute;
+	height: 230px;
+	width: 400px;
+	margin-left: 30px;
+	top: 30px;
+}
